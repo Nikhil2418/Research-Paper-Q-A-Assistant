@@ -79,7 +79,7 @@ research-paper-qa-assistant/
 ## 🧩 System Architecture
 
 <p align="center">
-  <img src="assets/images/LLM.drawio (3).png" alt="RAG Architecture Diagram" width="90%" />
+  <img src="assets/images/LLM.drawio (3).png" alt="RAG Architecture Diagram" width="70%" />
 </p>
 
 > *End-to-end architecture of the Research Paper Q&A Assistant — showing the full RAG pipeline: from PDF upload, text extraction, embedding, and FAISS retrieval to OpenAI-powered answer generation and Streamlit visualization.*
@@ -256,3 +256,4 @@ Indian Institute of Technology (IIT) Jodhpur
 ---
 
 **Built with ❤️ for the research community**
+
