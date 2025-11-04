@@ -242,7 +242,7 @@ M.Tech, Computer Science & Engineering
 Indian Institute of Technology (IIT) Jodhpur
 
 📍 Research interests: IoT Security · PUF · Machine Learning · AI Agents  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/Nikhil2418)
+🔗 [LinkedIn](https://www.linkedin.com/in/nikhil-kumar-80aaa41aa/) • [GitHub](https://github.com/Nikhil2418)
 
 ---
 
@@ -256,6 +256,7 @@ Indian Institute of Technology (IIT) Jodhpur
 ---
 
 **Built with ❤️ for the research community**
+
 
 
 
